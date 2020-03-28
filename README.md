@@ -41,6 +41,10 @@ The interesting result is that these numbers proves that descriptors are actuall
 
 The weak aspect of this analysis is… How reliable is this evidence? Can we say that an histogram randomly selected into a bag of descriptors is really a representative sample of the whole image?
 
+## Useful sources
+- [Histogram Comparison](https://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/histogram_comparison/histogram_comparison.html#theory)
+- [Histogram Normalization](https://docs.opencv.org/2.4/modules/core/doc/operations_on_arrays.html#normalize)
+- [OpenCV](https://books.google.it/books?id=LPm3DQAAQBAJ)
 
 
 ## Further informations
