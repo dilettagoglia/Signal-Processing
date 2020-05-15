@@ -26,6 +26,8 @@ reasonable means of confronting the descriptors (even quantitatively, if you whi
 - Grade obtained: 3/3
 
 
+
+
 ## Midterm 2 - Assignment 1 (april-may 2020)
 ### Hidden Markov Models for regime detection
 - Fit an Hidden Markov Model with Gaussian emissions to the data in [DSET1](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction#); 
@@ -35,3 +37,14 @@ it is sufficient to focus on the “Appliances” and “Lights” columns of th
 - Once trained the HMMs, perform Viterbi on a reasonably sized subsequence (e.g. 1 month of data) and plot the timeseries data highlighting (e.g. with different colours) the hidden state assigned to each timepoint by the Viterbi algorithm. 
 - Then, try sampling a sequence of at least 100 points from the trained HMMs and show it on a plot discussing similarities and differences w.r.t. the ground truth data.
 
+### Useful sources
+- [Fitting Hidden Markov Models](https://waterprogramming.wordpress.com/2018/07/03/fitting-hidden-markov-models-part-ii-sample-python-script/)
+- [States and HMMs](https://www.analyzemydata.org/analyses/2017/10/6/states-and-hmms)
+- [HMM implemented by hmmlearn](https://tomaxent.com/2017/05/01/HMM-implemented-by-hmmlearn/)
+- [Building Hidden Markov Models for Sequential Data](https://www.youtube.com/watch?v=Fc-up710V9A&t=177s)
+- [Introduction to Hidden Markov Models with Python Networkx and Sklearn](http://www.blackarbs.com/blog/introduction-hidden-markov-models-python-networkx-sklearn/2/9/2017)
+
+
+### Further informations
+- Project grade: from 0 to a maximum of 3 points.
+- Grade obtained: 3/3
