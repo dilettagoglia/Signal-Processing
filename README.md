@@ -48,3 +48,23 @@ it is sufficient to focus on the “Appliances” and “Lights” columns of th
 ### Further informations
 - Project grade: from 0 to a maximum of 3 points.
 - Grade obtained: 3/3
+
+
+## Midterm 3 - Assignment 3 (may 2020)
+### Gated RNN for timeseries prediction
+
+[DATASET](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction#) used 
+
+Train a gated recurrent neural network (LSTM) to predict energy expenditure (“Appliances” column) using two approaches:
+- Predict the current energy expenditure given as input information the temperature (T_i) and humidity (RH_i) information from all the i sensors in the house.
+- Setup a one step-ahead predictor for energy expenditure, i.e. given the current energy consumption, predict its next value.
+
+Show and compare performance of both methods.
+
+### Useful sources
+- [Tuning LSTM hyperparameters](https://machinelearningmastery.com/tune-lstm-hyperparameters-keras-time-series-forecasting/)
+- [Reshape data for LSTM](https://towardsdatascience.com/how-to-reshape-data-and-do-regression-for-time-series-using-lstm-133dad96cd00)
+- [Timeseries forecasting with LSTM](https://www.curiousily.com/posts/time-series-forecasting-with-lstms-using-tensorflow-2-and-keras-in-python/)
+- [LSTM for Timeseries](https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba)
+
+### Further informations
