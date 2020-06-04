@@ -53,7 +53,7 @@ it is sufficient to focus on the “Appliances” and “Lights” columns of th
 ## Midterm 3 - Assignment 3 (may 2020)
 ### Gated RNN for timeseries prediction
 
-[DATASET](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction#) used 
+[DATASET](https://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction#) 
 
 Train a gated recurrent neural network (LSTM) to predict energy expenditure (“Appliances” column) using two approaches:
 - Predict the current energy expenditure given as input information the temperature (T_i) and humidity (RH_i) information from all the i sensors in the house.
@@ -68,3 +68,5 @@ Show and compare performance of both methods.
 - [LSTM for Timeseries](https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba)
 
 ### Further informations
+- Project grade: from 0 to a maximum of 3 points.
+- Grade obtained: 
