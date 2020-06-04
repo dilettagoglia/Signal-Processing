@@ -69,4 +69,4 @@ Show and compare performance of both methods.
 
 ### Further informations
 - Project grade: from 0 to a maximum of 3 points.
-- Grade obtained: 
+- Grade obtained: 2/3
