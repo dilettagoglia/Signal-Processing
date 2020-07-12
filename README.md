@@ -59,5 +59,11 @@ Show and compare performance of both methods.
 - [Timeseries forecasting with LSTM](https://www.curiousily.com/posts/time-series-forecasting-with-lstms-using-tensorflow-2-and-keras-in-python/)
 - [LSTM for Timeseries](https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba)
 
+## Midterm 4 - final exam - (june 2020)
+### CNN for video processing 
+A review of the paper:
+
+Zhaofan Qiu, Ting Yao, Tao Mei, _Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks_, [arxiv.org/abs/1711.10305](https://arxiv.org/abs/1711.10305), Microsoft Research, Beijing, China, 2017
+
 # Further informations
 Grade obtained at the final exam: 30 cum laude
