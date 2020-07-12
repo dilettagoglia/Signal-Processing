@@ -21,11 +21,6 @@ reasonable means of confronting the descriptors (even quantitatively, if you whi
 - [OpenCV](https://books.google.it/books?id=LPm3DQAAQBAJ)
 
 
-### Further informations
-- Project grade: from 0 to a maximum of 3 points.
-- Grade obtained: 3/3
-
-
 
 
 ## Midterm 2 - Assignment 1 (april-may 2020)
@@ -45,9 +40,6 @@ it is sufficient to focus on the “Appliances” and “Lights” columns of th
 - [Introduction to Hidden Markov Models with Python Networkx and Sklearn](http://www.blackarbs.com/blog/introduction-hidden-markov-models-python-networkx-sklearn/2/9/2017)
 
 
-### Further informations
-- Project grade: from 0 to a maximum of 3 points.
-- Grade obtained: 3/3
 
 
 ## Midterm 3 - Assignment 3 (may 2020)
@@ -68,5 +60,4 @@ Show and compare performance of both methods.
 - [LSTM for Timeseries](https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba)
 
 ### Further informations
-- Project grade: from 0 to a maximum of 3 points.
-- Grade obtained: 2/3
+- Grade obtained at the final exam: 30 cum laude
