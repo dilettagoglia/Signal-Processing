@@ -59,5 +59,5 @@ Show and compare performance of both methods.
 - [Timeseries forecasting with LSTM](https://www.curiousily.com/posts/time-series-forecasting-with-lstms-using-tensorflow-2-and-keras-in-python/)
 - [LSTM for Timeseries](https://towardsdatascience.com/time-series-analysis-visualization-forecasting-with-lstm-77a905180eba)
 
-### Further informations
-- Grade obtained at the final exam: 30 cum laude
+# Further informations
+Grade obtained at the final exam: 30 cum laude
